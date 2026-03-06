@@ -1,5 +1,4 @@
-python-telegram-bot==20.0
+python-telegram-bot==20.8
 python-dotenv==1.0.0
-apscheduler==3.9.1
-sqlalchemy==2.0.15
-psycopg2-binary==2.9.6  # Если PostgreSQL
+apscheduler==3.10.4
+sqlalchemy==2.0.25
